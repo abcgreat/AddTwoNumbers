@@ -1,0 +1,6 @@
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
